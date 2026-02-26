@@ -11,7 +11,8 @@ Customer acquisition costs significantly more than retention. By predicting whic
 - **Framework:** CRISP-DM (Business Understanding -> Data Prep -> Modeling -> Evaluation)
 - **Model:** Logistic Regression (Chosen for its high explainability)
   
-<img width="719" height="461" alt="image" src="https://github.com/user-attachments/assets/a733da19-9ba4-40e0-a66e-2cabbcb2459c" />
+
+<img width="589" height="394" alt="image" src="https://github.com/user-attachments/assets/a5ce8123-2e62-4ea3-9069-37de7c6e3479" />
 
 
 
@@ -24,6 +25,8 @@ Customer acquisition costs significantly more than retention. By predicting whic
 ## 🤖 Model Performance
 - **Accuracy Score:** **78.68%**
 - The model provides a solid baseline for identifying high-risk customers before they terminate their service.
+
+  <img width="719" height="461" alt="image" src="https://github.com/user-attachments/assets/a733da19-9ba4-40e0-a66e-2cabbcb2459c" />
 
 ## 💡 Strategic Business Recommendations
 1. **Contract Incentives:** Launch a campaign to migrate "Month-to-month" users to annual contracts by offering a 10-15% loyalty discount.
