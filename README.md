@@ -10,6 +10,8 @@ Customer acquisition costs significantly more than retention. By predicting whic
 - **Libraries:** Pandas (Data Wrangling), Matplotlib & Seaborn (EDA), Scikit-learn (Machine Learning)
 - **Framework:** CRISP-DM (Business Understanding -> Data Prep -> Modeling -> Evaluation)
 - **Model:** Logistic Regression (Chosen for its high explainability)
+  
+<img width="719" height="461" alt="image" src="https://github.com/user-attachments/assets/a733da19-9ba4-40e0-a66e-2cabbcb2459c" />
 
 
 
